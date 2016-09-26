@@ -1,9 +1,12 @@
-<html>
+<ht>
 	<head>
 		<title>Ejercicio 1</title>
-	</head>
+	</ad>
 
 <body>
-	<h1>Hola</h1>
+	<h1>Hol/h1>
+<video></video>
 </body>
+<footer></footer>
 </html>
+
