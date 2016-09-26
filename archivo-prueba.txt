@@ -5,6 +5,7 @@
 
 <body>
 	<h1>Hol/h1>
+	<h2> Hola Amiguitos =) /h2>
 <video></video>
 </body>
 <footer></footer>
